@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10232698.svg)](https://doi.org/10.5281/zenodo.10232698)
+
 ## *Converting an allocentric goal into an egocentric steering signal*
 
 This repository contains code for producing the analyses and figures in: [Mussells Pires et al, *Converting an
