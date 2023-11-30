@@ -1,0 +1,6 @@
+# ignore some stuff
+
+.DS_Store
+.idea
+.ipynb_checkpoints
+__pycache__/
