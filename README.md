@@ -3,7 +3,7 @@
 ## *Converting an allocentric goal into an egocentric steering signal*
 
 This repository contains code for producing the analyses and figures in: [Mussells Pires et al, *Converting an
-allocentric goal into an egocentric steering signal*](https://www.biorxiv.org/content/10.1101/2022.11.10.516026v1)
+allocentric goal into an egocentric steering signal*](https://doi.org/10.1038/s41586-023-07006-3)
 
 The pipeline for analazing imaging, electrophysiology and behavioural data uses the raw data (axon binary files for
 behavioural and electrophysiology data and registered two-photon tiff images) as a starting point. These data have not
